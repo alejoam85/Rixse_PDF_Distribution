@@ -1,9 +1,7 @@
 {
-  "version": "1.0",
-  "url": "https://sites.google.com/view/rixse-systems",
-  "notas": "Versión 1.0 oficial de Rixse PDF al día.",
-  "sha256": "",
-  "equipos_autorizados": [
-    "*"
-  ]
+  "version": "0.9.0",
+  "url": "https://github.com/alejoam85/Rixse_PDF_Distribution/releases/download/v0.9.0-beta/Instalador_Rixse_PDF_v0.9.0_Beta.exe",
+  "notas": "<h3>Rixse PDF (Beta) v0.9.0</h3><p>Versión preliminar de evaluación y pruebas reales.</p>",
+  "sha256": "el_hash_sha256_de_tu_instalador",
+  "equipos_autorizados": ["*"]
 }
