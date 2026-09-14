@@ -1,6 +1,6 @@
 {
   "version": "0.9.1",
-  "url": "https://github.com/alejoam85/Rixse_PDF_Distribution/releases/download/v0.9.1-beta/Rixse_PDF_(Beta)_v0.9.1.exe",
+  "url": "https://github.com/alejoam85/Rixse_PDF_Distribution/releases/download/v0.9.1-beta/Rixse_PDF_.Beta._v0.9.1.exe",
   "notas": "<h3>Rixse PDF (Beta) v0.9.1</h3><p>Corrección de geometría en primer arranque (apertura maximizada) y optimización del motor de empaquetado.</p>",
   "sha256": "6E4331FDB21B65EF763C756FD8E66167F58138704A2761C59CF13293C8E8DBBC",
   "equipos_autorizados": [
